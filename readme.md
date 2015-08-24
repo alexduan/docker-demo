@@ -1,4 +1,4 @@
-# Docker Demo Application
+## Docker Demo Application
 Original Author:  Evan Hazlett (https://github.com/ehazlett/docker-demo)
 test
 
